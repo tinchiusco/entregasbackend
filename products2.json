@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Titulo 4",
+		"description": "Descripción 4",
+		"price": "Price 4",
+		"thumbnail": "thumbnail.photos/200/300",
+		"code": 40,
+		"stock": 4,
+		"available": true,
+		"id": {}
+	},
+	{
+		"title": "Titulo 5",
+		"description": "Descripción 5",
+		"price": "Price 5",
+		"thumbnail": "thumbnail.photos/200/300",
+		"code": 50,
+		"stock": 5,
+		"available": true,
+		"id": {}
+	},
+	{
+		"title": "Titulo 6",
+		"description": "Descripción 6",
+		"price": "Price 6",
+		"thumbnail": "thumbnail.photos/200/300",
+		"code": 60,
+		"stock": 6,
+		"available": true,
+		"id": {}
+	}
+]
